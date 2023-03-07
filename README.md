@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aphidbeth
-- 👀 I’m interested in molecular ecology (particularly aphid genomics)/spatial ecology of crop pests
+- 👀 I’m interested in molecular ecology (particularly aphid genomics) and landscape genomics
 - 🌱 I’m currently a PhD student at University of Aberdeen focusing on ecological drivers of insecticide resistance in crop pests
 - 💞️ ...so this is mainly a place for me to document my analysis to try and keep things reproducible!
 - 📫 Reach me on: twitter @bethlilymoore or at b.moore.17@abdn.ac.uk
